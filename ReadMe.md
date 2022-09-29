@@ -1,10 +1,14 @@
-# Wco-DL [![GitHub release](https://img.shields.io/github/release/EpicUnknown/wco-dl.svg?style=flat-square)](https://github.com/EpicUnknown/wco-dl/releases/latest) | [![Github All Releases](https://img.shields.io/github/downloads/EpicUnknown/wco-dl/total.svg?style=flat-square)](https://github.com/EpicUnknown/wco-dl/releases)
+# wco-dlx [![GitHub release](https://img.shields.io/github/release/EpicUnknown/wco-dl.svg?style=flat-square)](https://github.com/EpicUnknown/wco-dl/releases/latest) | [![Github All Releases](https://img.shields.io/github/downloads/EpicUnknown/wco-dl/total.svg?style=flat-square)](https://github.com/EpicUnknown/wco-dl/releases)
 
-wco-dl is a Command-line program to download cartoons/anime/movies from WCOStream.com.
+**wco-dlx** is a command-line program to download cartoons/anime/movies from WCOStream.com. 
 
-> Downloading and distributing this content may be illegal.This script was written for education purposes purely and you are responsible for its use.
+**wco-dlx** is a fork of the excellent **wco-dl** by **EpicUnknown** [available here](https://github.com/EpicUnknown/wco-dl).
 
-> Support these cartoon/anime streaming websites by buying a premium account and registering!
+## PLEASE NOTE!
+
+> Downloading and distributing content from WCOStream.com is probably illegal.
+> This script was written for education purposes purely and you are responsible for its use.
+> Show your support for streaming websites/apps by registering a premium subscription account!
 
 Please go check out the wiki as it is indepth on what this script does.
 
